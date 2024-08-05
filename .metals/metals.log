@@ -1,0 +1,27 @@
+2024.08.05 23:41:36 INFO  Started: Metals version 1.3.5 in folders 'D:\UCSC\FP\Practical 07 NEw' for client Visual Studio Code 1.92.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@5daa5647]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@4ea9777c]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@5daa5647]
+2024.08.05 23:41:36 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.05 23:41:37 INFO  no build target found for D:\UCSC\FP\Practical 07 NEw\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 23:41:39 INFO  Running List(C:\Users\pehan\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, D:\UCSC\FP\Practical 07 NEw)
+2024.08.05 23:41:39 INFO  Attempting to connect to the build server...
+2024.08.05 23:41:39 INFO  Running BSP server List(C:\Users\pehan\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\UCSC\FP\Practical 07 NEw\.scala-build\ide-options-v2.json, --json-launcher-options, D:\UCSC\FP\Practical 07 NEw\.scala-build\ide-launcher-options.json, --envs-file, D:\UCSC\FP\Practical 07 NEw\.scala-build\ide-envs.json, D:\UCSC\FP\Practical 07 NEw)
+2024.08.05 23:41:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\FP\Practical 07 NEw\.metals\bsp.trace.json or C:\Users\pehan\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.05 23:41:43 INFO  time: Connected to build server in 4.11s
+2024.08.05 23:41:43 INFO  Connected to Build server: scala-cli v1.4.0
+2024.08.05 23:41:43 INFO  running doctor check
+2024.08.05 23:41:43 INFO  java targets: 
+2024.08.05 23:41:44 INFO  compiling practical 07 new_2fbec98528 (3 scala sources)
+2024.08.05 23:41:44 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.05 23:41:44 INFO  time: indexed workspace in 1.8s
+2024.08.05 23:41:45 WARN  no build target for: D:\UCSC\FP\Practical 07 NEw\1.scala
+2024.08.05 23:41:45 INFO  no build target found for D:\UCSC\FP\Practical 07 NEw\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 23:41:45 INFO  no build target found for D:\UCSC\FP\Practical 07 NEw\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 23:42:36 INFO  no build target found for D:\UCSC\FP\Practical 07 NEw\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 23:42:36 INFO  no build target found for D:\UCSC\FP\Practical 07 NEw\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 23:42:36 INFO  no build target found for D:\UCSC\FP\Practical 07 NEw\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 05, 2024 11:42:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
